@@ -13,6 +13,11 @@
     </tr>
 </table>
 
+<details>
+<summary>Rare picture of me actually studying school stuff with a friend</summary>
+<img src="https://user-images.githubusercontent.com/40539549/126728208-6dcc39e0-adeb-4168-8557-dbf5634372eb.png">
+</details>
+
 <!--
 **Animenosekai/Animenosekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
