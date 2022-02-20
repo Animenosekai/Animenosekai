@@ -2,7 +2,7 @@
 
 ## GitHub Stats
 
-![Animenosekai GitHub Stats](https://github-readme-stats.vercel.app/api?username=Animenosekai&count_private=true&show_icons=true)
+![Animenosekai GitHub Stats](https://github-readme-stats.vercel.app/api?username=Animenosekai&show_icons=true&include_all_commits=true&count_private=true)
 
 ## Profile Picture History
 
