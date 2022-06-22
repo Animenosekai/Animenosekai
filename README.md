@@ -14,8 +14,9 @@
 </table>
 
 <details>
-<summary>Rare picture of me actually studying school stuff with a friend</summary>
-<img src="https://user-images.githubusercontent.com/40539549/126728208-6dcc39e0-adeb-4168-8557-dbf5634372eb.png">
+    <summary>Rare pictures of me actually studying school stuff with a friend</summary>
+    <img alt="Kobayashi-San chi no Maid Dragon" src="https://user-images.githubusercontent.com/40539549/126728208-6dcc39e0-adeb-4168-8557-dbf5634372eb.png">
+    <img alt="Arifureta" src="https://user-images.githubusercontent.com/40539549/175107304-8dfc50e2-679e-48af-9a5f-cc843b1e6cb8.png">
 </details>
 
 <!--
