@@ -2,14 +2,28 @@
 
 ## GitHub Stats
 
-![Animenosekai GitHub Stats](https://github-readme-stats.vercel.app/api?username=Animenosekai&show_icons=true&include_all_commits=true&count_private=true)
+
+<table>
+    <tr>
+        <td align="center">
+            <img alt="Animenosekai GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Animenosekai&show_icons=true&include_all_commits=true&count_private=true">
+        </td>
+        <td align="center">
+            <img alt="Animenosekai GitHub Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Animenosekai&theme=github">
+        </td>
+    </tr>
+</table>
 
 ## Profile Picture History
 
 <table>
     <tr>
-        <td align="center"><img width="80px" src="https://user-images.githubusercontent.com/40539549/126576373-e01be702-adc4-42c6-86ed-a5ee3aef4490.png"></td>
-        <td align="center"><img width="80px" src="https://user-images.githubusercontent.com/40539549/126576401-3e88c5bc-bdd6-41b8-adda-b0507b39c513.png"></td>
+        <td align="center">
+            <img width="80px" src="https://user-images.githubusercontent.com/40539549/126576373-e01be702-adc4-42c6-86ed-a5ee3aef4490.png">
+        </td>
+        <td align="center">
+            <img width="80px" src="https://user-images.githubusercontent.com/40539549/126576401-3e88c5bc-bdd6-41b8-adda-b0507b39c513.png">
+        </td>
     </tr>
 </table>
 
